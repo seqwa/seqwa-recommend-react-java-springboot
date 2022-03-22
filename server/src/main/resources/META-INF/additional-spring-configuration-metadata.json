@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "seqwa.indexid",
+    "type": "java.lang.String",
+    "description": "A description for 'seqwa.indexid'"
+  },
+  {
+    "name": "seqwa.autocomplete.apikey",
+    "type": "java.lang.String",
+    "description": "A description for 'seqwa.autocomplete.apikey'"
+  },
+  {
+    "name": "seqwa.autocomplete.url",
+    "type": "java.lang.String",
+    "description": "A description for 'seqwa.autocomplete.url'"
+  },
+  {
+    "name": "seqwa.recommend.url",
+    "type": "java.lang.String",
+    "description": "A description for 'seqwa.recommend.url'"
+  },
+  {
+    "name": "seqwa.recommend.apikey",
+    "type": "java.lang.String",
+    "description": "A description for 'seqwa.recommend.apikey'"
+  }
+]}
